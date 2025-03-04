@@ -1,0 +1,47 @@
+2025-01-12 08:30:36:INFO:**********Test 01 - Admin Login**********
+2025-01-12 08:30:36:INFO:**********Verifikasi halaman login admin**********
+2025-01-12 09:33:04:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:33:04:INFO:**********Verifikasi halaman login **********
+2025-01-12 09:33:06:INFO:**********Verifikasi Pesan test_title berhasil**********
+2025-01-12 09:33:10:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:33:10:INFO:**********Verifikasi halaman login Standars**********
+2025-01-12 09:33:19:INFO:**********Verifikasi Pesan test_valid_loginStandars berhasil**********
+2025-01-12 09:33:22:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:33:22:INFO:**********Verifikasi halaman login Locked**********
+2025-01-12 09:33:32:INFO:**********Verifikasi Pesan test_valid_loginStandars berhasil**********
+2025-01-12 09:33:35:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:33:35:INFO:**********Verifikasi halaman login Problem**********
+2025-01-12 09:33:45:INFO:**********Verifikasi Pesan test_valid_loginProblem berhasil**********
+2025-01-12 09:33:48:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:33:48:INFO:**********Verifikasi halaman login Performance**********
+2025-01-12 09:34:03:INFO:**********Verifikasi Pesan test_valid_loginPerforemance berhasil**********
+2025-01-12 09:34:05:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:34:05:INFO:**********Verifikasi halaman login Error**********
+2025-01-12 09:34:15:INFO:**********Verifikasi Pesan test_valid_loginError berhasil**********
+2025-01-12 09:34:18:INFO:**********Test 01 - Admin Login**********
+2025-01-12 09:34:18:INFO:**********Verifikasi halaman login Visual**********
+2025-01-12 09:34:27:INFO:**********Verifikasi Pesan test_valid_loginVisual berhasil**********
+2025-01-12 14:28:51:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:28:51:INFO:**********Verifikasi halaman login **********
+2025-01-12 14:28:52:INFO:**********Verifikasi Pesan test_title berhasil**********
+2025-01-12 14:28:54:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:28:54:INFO:**********Verifikasi halaman login Standars**********
+2025-01-12 14:29:04:INFO:**********Verifikasi Pesan test_valid_loginStandars berhasil**********
+2025-01-12 14:29:06:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:29:06:INFO:**********Verifikasi halaman login Locked**********
+2025-01-12 14:29:16:INFO:**********Verifikasi Pesan test_valid_loginStandars berhasil**********
+2025-01-12 14:29:18:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:29:18:INFO:**********Verifikasi halaman login Problem**********
+2025-01-12 14:29:27:INFO:**********Verifikasi Pesan test_valid_loginProblem berhasil**********
+2025-01-12 14:29:30:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:29:30:INFO:**********Verifikasi halaman login Performance**********
+2025-01-12 14:29:44:INFO:**********Verifikasi Pesan test_valid_loginPerforemance berhasil**********
+2025-01-12 14:29:47:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:29:47:INFO:**********Verifikasi halaman login Error**********
+2025-01-12 14:29:56:INFO:**********Verifikasi Pesan test_valid_loginError berhasil**********
+2025-01-12 14:29:59:INFO:**********Test 01 - Admin Login**********
+2025-01-12 14:29:59:INFO:**********Verifikasi halaman login Visual**********
+2025-01-12 14:30:08:INFO:**********Verifikasi Pesan test_valid_loginVisual berhasil**********
+2025-01-15 20:51:18:INFO:**********Test 01 - Shopping Cart**********
+2025-01-15 20:51:18:INFO:**********Verifikasi halaman Shopping Cart **********
+2025-01-15 20:51:39:INFO:**********Verifikasi Halaman Checkout berhasil**********
